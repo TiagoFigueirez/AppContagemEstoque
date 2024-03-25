@@ -1,1 +1,2 @@
 # AppContagemEstoque
+Sistema simples que conta o estoque e em seguida gera um relatório em excel do que foi contado, basicamente você lê com o leitor de código de barras o vento key char le letra por letra e concatena em uma variável em seguida com o split(); se devide o que foi lido no código que é basicamente produto lote e sub-lote para em seguida armazenar na lista, para adquar o sistema ao tipo de código que você quer ler, basta mudar o split de acordo com os dados.
