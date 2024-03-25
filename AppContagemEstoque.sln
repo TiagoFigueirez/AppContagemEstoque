@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppContagemEstoque", "AppContagemEstoque\AppContagemEstoque.csproj", "{BC816627-D77C-4CDF-8CF5-549B650F929C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC816627-D77C-4CDF-8CF5-549B650F929C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC816627-D77C-4CDF-8CF5-549B650F929C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC816627-D77C-4CDF-8CF5-549B650F929C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC816627-D77C-4CDF-8CF5-549B650F929C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5281C4B-6AFC-4420-93BE-360676BD8737}
+	EndGlobalSection
+EndGlobal
